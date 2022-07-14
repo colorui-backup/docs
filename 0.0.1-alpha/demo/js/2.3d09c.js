@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{174:function(e,n,t){"use strict";t.r(n);var o=t(4),c={save:"Save",confirm:"Confirm",cancel:"Cancel",delete:"Delete",complete:"Complete",try:function(e){return"".concat(e,"Complete")}},a=t(48);t.d(n,"default",(function(){return u}));var r={};function u(){return r["en-US"]=c,r["zh-CN"]=a.a,o.a.load(r),r}}}]);
